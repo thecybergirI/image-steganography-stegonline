@@ -1,4 +1,4 @@
-# What Is Steganography?
+# What is Steganography?
 
 ## Definition
 
@@ -57,16 +57,16 @@ Modifies Discrete Cosine Transform coefficients inside JPEG compression. Used by
 
 ## Real-World Uses
 
-- Covert communication — journalists in hostile regions
-- Digital watermarking — copyright protection
-- CTF competitions — hiding flags inside challenge images
-- Forensics — detecting hidden data in investigations
+- Covert communication - journalists in hostile regions
+- Digital watermarking - copyright protection
+- CTF competitions - hiding flags inside challenge images
+- Forensics - detecting hidden data in investigations
 
 ---
 
 ## Detection: Steganalysis
 
 Detecting steganography is called **steganalysis**. Tools include:
-- `zsteg` — statistical analysis of PNG/BMP
-- `stegsolve` — visual bit-plane analysis
-- `binwalk` — entropy and file signature scanning
+- `zsteg` - statistical analysis of PNG/BMP
+- `stegsolve` - visual bit-plane analysis
+- `binwalk` - entropy and file signature scanning
