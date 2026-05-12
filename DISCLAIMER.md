@@ -24,9 +24,10 @@ Do **NOT** use this knowledge to:
 
 Unauthorized use of steganography to conceal malicious activity may violate laws including:
 
-- **Nigeria** — Cybercrimes (Prohibition, Prevention, Etc.) Act 2015
-- **USA** — Computer Fraud and Abuse Act (CFAA)
-- **UK** — Computer Misuse Act 1990
+- **Nigeria** - Cybercrimes (Prohibition, Prevention, Etc.) Act 2015 (as amended, 2024)
+- **USA** - Computer Fraud and Abuse Act (CFAA)
+- **UK** - Computer Misuse Act 1990
+- **European Union** - Directive 2013/40/EU (Attacks Against Information Systems
 
 The author(s) of this repository take **no responsibility** for any misuse of the information provided.
 
