@@ -10,7 +10,7 @@
 
 ## What Is This Repository?
 
-This is a beginner-friendly guide to **image steganography** — hiding secret data inside image files — using **StegOnline** by georgeom.net. No installation needed; everything runs in your browser.
+This is a beginner-friendly guide to **image steganography** - hiding secret data inside image files - using **StegOnline** by georgeom.net. No installation needed; everything runs in your browser.
 
 > **See [DISCLAIMER.md](./DISCLAIMER.md) before proceeding.**
 
