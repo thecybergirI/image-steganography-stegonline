@@ -1,7 +1,5 @@
 # What is Steganography?
 
-## Definition
-
 **Steganography** is the practice of hiding secret information within an ordinary, non-secret file so that the existence of the hidden data is concealed. The word comes from Greek: *steganos* (covered) + *graphia* (writing).
 
 Unlike **encryption** (which scrambles data so it can't be read), steganography **hides the very existence** of the data.
@@ -17,25 +15,25 @@ Unlike **encryption** (which scrambles data so it can't be read), steganography 
 | Detection | Hard to detect | Easy to detect, hard to read |
 | Example | Message hidden in image pixels | AES-encrypted message |
 
-> Best practice: Combine both — encrypt your message first, then hide it inside an image.
+> Best practice: Combine both, encrypt your message first, then hide it inside an image.
 
 ---
 
 ## How Images Store Data
 
 Digital images are made of **pixels**. Each pixel in an RGB image has 3 channels:
-- **R**ed (0–255)
-- **G**reen (0–255)
-- **B**lue (0–255)
+- **R**ed (0-255)
+- **G**reen (0-255)
+- **B**lue (0-255)
 
-Each channel is an **8-bit binary number**. Example — color `(200, 100, 50)`:
+Each channel is an **8-bit binary number**. Example - color `(200, 100, 50)`:
 ```
 R: 11001000
 G: 01100100
 B: 00110010
 ```
 
-The **least significant bit (LSB)** is the rightmost bit. Changing it barely affects the color visually — this is the foundation of LSB steganography.
+The **least significant bit (LSB)** is the rightmost bit. Changing it barely affects the color visually, this is the foundation of LSB steganography.
 
 ---
 
