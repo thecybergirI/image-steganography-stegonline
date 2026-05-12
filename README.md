@@ -1,6 +1,6 @@
 # Image Steganography with StegOnline
 
-> A beginner's guide to hiding and extracting data inside images using [StegOnline](https://georgeom.net/StegOnline) — a free, browser-based LSB steganography tool.
+> A beginner's guide to hiding and extracting data inside images using [StegOnline](https://georgeom.net/StegOnline), a free, browser-based LSB steganography tool.
 
 ![Purpose](https://img.shields.io/badge/purpose-educational-green.svg)
 ![Level](https://img.shields.io/badge/level-beginner-blue.svg)
@@ -8,17 +8,15 @@
 
 ---
 
-## What Is This Repository?
-
-This is a beginner-friendly guide to **image steganography** - hiding secret data inside image files - using **StegOnline** by georgeom.net. No installation needed; everything runs in your browser.
+This is a beginner-friendly guide to **image steganography**, hiding secret data inside image files using **StegOnline** by georgeom.net. No installation needed; everything runs in your browser.
 
 > **See [DISCLAIMER.md](./DISCLAIMER.md) before proceeding.**
 
 ---
 
-## What Is StegOnline?
+## What is StegOnline?
 
-[StegOnline](https://georgeom.net/StegOnline) is a free, open-source, web-based image steganography tool. It is a modern, browser-based alternative to the old desktop tool *Stegsolve*. No data is stored or transferred — everything runs locally in your browser.
+[StegOnline](https://georgeom.net/StegOnline) is a free, open-source, web-based image steganography tool. It is a modern, browser-based alternative to the old desktop tool *Stegsolve*. No data is stored or transferred, everything runs locally in your browser. Any image you upload or process stays safely in your local browser cache and is never sent to a remote server. The most common technique used here is Least Significant Bit (LSB) steganography.
 
 **Key features:**
 - Embed (hide) data in images using LSB techniques
@@ -28,26 +26,6 @@ This is a beginner-friendly guide to **image steganography** - hiding secret dat
 - View PNG chunk info
 - Explore and randomize colour palettes
 - Automated LSB detection
-
----
-
-## Repository Structure
-
-```
-image-steganography-stegonline/
-├── README.md
-├── DISCLAIMER.md
-├── 01-concepts/
-│   └── what-is-steganography.md     # Theory and background
-├── 02-stegonline-guide/
-│   ├── interface-overview.md        # How to navigate StegOnline
-│   ├── embed-data.md                # Step-by-step: hiding data
-│   └── extract-data.md              # Step-by-step: extracting data
-├── 03-bit-planes/
-│   └── bit-plane-analysis.md        # Understanding bit planes
-└── 04-ctf-tips/
-    └── ctf-checklist.md             # Checklist for solving stego challenges
-```
 
 ---
 
