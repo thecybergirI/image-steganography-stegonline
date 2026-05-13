@@ -2,7 +2,7 @@
 
 This guide covers pulling hidden data out of a stego image using [StegOnline](https://georgeom.net/StegOnline).
 
----
+
 
 ## Step-by-Step: Extracting a Hidden Message
 
@@ -10,10 +10,10 @@ This guide covers pulling hidden data out of a stego image using [StegOnline](ht
 Open: https://georgeom.net/StegOnline
 
 ### 2. Upload the stego image
-Click **Upload Image** and select the image that contains hidden data.
+Click Upload Image and select the image that contains hidden data.
 
 ### 3. Click "Extract Data"
-From the image homepage, click the **Extract Data** option.
+From the image homepage, click the Extract Data option.
 
 ### 4. Match the embed settings
 **Critical:** Use the EXACT same settings that were used when the data was hidden.
