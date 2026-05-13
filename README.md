@@ -14,7 +14,7 @@ This is a beginner-friendly guide to **image steganography**, hiding secret data
 
 ---
 
-## What is StegOnline?
+## StegOnline
 
 [StegOnline](https://georgeom.net/StegOnline) is a free, open-source, web-based image steganography tool. It is a modern, browser-based alternative to the old desktop tool *Stegsolve*. No data is stored or transferred, everything runs locally in your browser. Any image you upload or process stays safely in your local browser cache and is never sent to a remote server. The most common technique used here is Least Significant Bit (LSB) steganography.
 
